@@ -1,0 +1,14 @@
+# Build files
+build/
+*.out
+*.vcd
+*.log
+
+# Temporary files
+*~
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+.vscode/
